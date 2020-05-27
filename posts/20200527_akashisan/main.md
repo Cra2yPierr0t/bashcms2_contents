@@ -1,6 +1,6 @@
 ---
 Keywords: 明石さん
-Copyright:(C) 2020 PinkCatCP
+Copyright: (C) 2020 PinkCatCP
 ---
 
 # 明石さん
